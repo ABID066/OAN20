@@ -12,6 +12,8 @@ For detailed API documentation and testing endpoints, visit the Postman document
 npm install
 ```
 
+---
+
 ## Running the Project
 
 Start the server using **nodemon**:
@@ -22,6 +24,6 @@ nodemon index.js
 
 The server will start on `http://localhost:8000/`.
 
----
+
 
 
